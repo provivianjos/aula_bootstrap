@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #01A9DB; font-size: large; 
+}
+.sobremim{
+    background-color: #FE9A2E; 
+    color: black;
+    text-align: justify;
+    
+
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.educacao{
+    background-color: #81e9f7; 
+    color: black;
+}
+.dev{
+    background-color: #F7819F; 
+    color: black;
+}
